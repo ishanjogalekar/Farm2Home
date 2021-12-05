@@ -1,4 +1,4 @@
-# AgriHero
+# Farm2Home
 
 
 <img src="static/logo.png" alt="logo" width="200"/>
